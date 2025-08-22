@@ -25,3 +25,5 @@ EXPOSE 8080
 
 # Comando de arranque
 CMD ["python", "app.py"]
+
+#bendicones
